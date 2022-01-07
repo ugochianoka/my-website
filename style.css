@@ -10,7 +10,7 @@ body{
 .babygirl{
     border-radius: 50%;
     height: 200px;
-    margin-top: 30pxH;
+    margin-top: 30px;
 }
 span{
     text-decoration: underline;
@@ -51,11 +51,13 @@ h3{
     width:25%;
   float:right;
   margin-left: 30px;
+    border-radius:50%;
 }
 .cooking{
     width:25%;
     float:left;
   margin-right: 30px;
+    border-radius:50%;
 }
 .boob{
     color:#40514E;
